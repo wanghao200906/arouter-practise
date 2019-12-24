@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:5:5-20:19
+	android:supportsRtl
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:11:9-40
+activity#com.netease.modular.personal.Personal_MainActivity
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:16:27-74
+activity#com.netease.modular.personal.debug.Personal_DebugActivity
+ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml:19:19-63
+uses-sdk
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/网易/移动架构师/jiagoushi-master/2.2.9 组件化在网易云课堂中的实践/personal/src/main/AndroidManifest.xml

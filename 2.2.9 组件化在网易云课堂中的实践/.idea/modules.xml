@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2.2.9 组件化在网易云课堂中的实践.iml" filepath="$PROJECT_DIR$/2.2.9 组件化在网易云课堂中的实践.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter_annotation/arouter_annotation.iml" filepath="$PROJECT_DIR$/arouter_annotation/arouter_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter_api/arouter_api.iml" filepath="$PROJECT_DIR$/arouter_api/arouter_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arouter_compiler/arouter_compiler.iml" filepath="$PROJECT_DIR$/arouter_compiler/arouter_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personal/personal.iml" filepath="$PROJECT_DIR$/personal/personal.iml" />
+    </modules>
+  </component>
+</project>
